@@ -10,7 +10,7 @@ All algorithms in this repository were written by Lukasz Komza.
 
 `triangulation.cpp` finding optimal triangulations of convex polygons in O(n<sup>3</sup>) time
 
-`kosaraju.cpp` using kosaraju's algorithm to find strong components in a DAG and find the component DAG in O(V+E) time
+`kosaraju.cpp` using kosaraju's algorithm to find strong components in a DAG and find the component DAG in O(V+E)
 
 `transporters.cpp` finding the number of leafs in a biconnected component subgraph
 
