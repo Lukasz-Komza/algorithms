@@ -10,7 +10,7 @@ All algorithms in this repository were written by Lukasz Komza.
 
 `triangulation.cpp` finding optimal triangulations of convex polygons in O(n<sup>3</sup>) time
 
-<b>In Progress</b> `kosaraju.cpp` using kosaraju's algorithm to find strong components in a DAG and find the component DAG in O(n) time
+<b>In Progress</b> `kosaraju.cpp` using kosaraju's algorithm to find strong components in a DAG and find the component DAG in O(V+E) time
 
 `sliding-puzzle.py` solving sliding puzzles using famous search algorithms
 
