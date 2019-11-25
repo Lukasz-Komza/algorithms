@@ -1,6 +1,6 @@
 ## Algorithms
 
-All algorithms in this repository were written by Lukasz Komza.
+All algorithms and implementations in this repository were written by Lukasz Komza.
 
 ------
 
